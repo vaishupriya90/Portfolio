@@ -13,7 +13,6 @@ Photo by <a href="https://unsplash.com/@burst?utm_source=unsplash&utm_medium=ref
   
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Java libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+* **Backend used:** Java - Springboot Framework
+* **FrontEnd used:** Typescript - Angular Framework
 
