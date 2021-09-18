@@ -7,7 +7,7 @@
 * Bachelors of Information Technology, *Anna University*, 2007-2011
 
 # [Project 1: Employee Manager](http://youtube.com/dataprofessor)
-![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+![alt text](burst-kUqqaRjJuw0-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@burst?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Burst</a> on <a href="https://unsplash.com/s/photos/typing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
