@@ -12,6 +12,9 @@
 Photo by <a href="https://unsplash.com/@burst?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Burst</a> on <a href="https://unsplash.com/s/photos/typing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
+Photo by <a href="https://unsplash.com/@burst?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Burst</a> on <a href="https://unsplash.com/s/photos/typing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 * **Backend used:** Java - Springboot Framework
 * **FrontEnd used:** Typescript - Angular Framework
