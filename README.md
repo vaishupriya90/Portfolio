@@ -1,6 +1,7 @@
 
 # Vaishnava Priya Chellaiya
-*An Aspiring Java Developer | Teaching Assistant*
+*An Aspiring Java Developer | Teaching Assistant Looking forward to advancing my career with a leading organization that will utilize my full stack development knowledge while allowing me to grow further as a professional.
+*
 
 # Education
 * Launch Code Graduate - Web Development with Java & Angular
