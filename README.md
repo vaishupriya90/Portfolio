@@ -16,5 +16,21 @@ Full-stack application that allows users to create, view, update and delete empl
 * **FrameWorks Used:** Springboot & Angular
 * **Languages Used:** Java & Typescript
 * **DataBase Used:** MySQL Database
-* [GitHub Link for the project]()
+* [GitHub Link for the project](https://github.com/vaishupriya90/employee-manager)
+
+# Project 1: Customer Rewards Program
+![alt text](burst-kUqqaRjJuw0-unsplash.jpg)
+Photo by <a href="https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">freestocks</a> on <a href="https://unsplash.com/s/photos/shopping-and-rewards?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+A FrontEnd application that calculates the reward points earned for each customer per month and total.This application currently uses static user records stored in an array, in future I would connect this application to a database and get values dynamically and store the datas in the database.
+
+* **FrameWorks Used:** Angular
+* **Languages Used:** Typescript
+* [GitHub Link for the project](https://github.com/vaishupriya90/customer-rewards)
+* [Live Application](https://calculate-customer-rewards.netlify.app/#)
+
+
+
+
+
 
