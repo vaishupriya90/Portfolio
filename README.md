@@ -21,7 +21,7 @@ Full-stack application that allows users to create, view, update and delete empl
 * **DataBase Used:** MySQL Database
 * [GitHub Link for the project](https://github.com/vaishupriya90/employee-manager)
 
-# Project 2: Customer Rewards Program
+## Project 2: Customer Rewards Program
 ![alt text](freestocks-_3Q3tsJ01nc-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@freestocks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">freestocks</a> on <a href="https://unsplash.com/s/photos/shopping-and-rewards?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
