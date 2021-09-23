@@ -7,7 +7,9 @@ An Aspiring Java Developer | Teaching Assistant Looking forward to advancing my 
 * Launch Code Graduate - Web Development with Java & Angular
 * Bachelors of Information Technology, *Anna University*, 2007-2011
 
-# Project 1: Employee Manager
+# Here are a few Projects that I built using the skills I taught myself in the recent times:
+
+## Project 1: Employee Manager
 ![alt text](burst-kUqqaRjJuw0-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@burst?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Burst</a> on <a href="https://unsplash.com/s/photos/typing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>  
